@@ -1,0 +1,5 @@
+Get indiviual docker containers working 04/04/2023
+setup swarm 04/04/2023
+Make api for docker containers
+setup data and error message communication
+setup multi-api-key system with error code handling
